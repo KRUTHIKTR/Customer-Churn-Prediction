@@ -22,8 +22,16 @@ Customer churn refers to when a customer stops doing business with a company. Re
 
 ## Approach and Methodology
 
-1. **Exploratory Data Analysis (EDA)**
+1. **Exploratory Data Analysis (EDA)**.
   - Understand data distribution, missing values, correlations, and key features.
+2. d
+3. d
+4. d
+5. d
+6. 
+  
+
+  
 
 2. **Data Preprocessing**
   - Encoding categorical variables, feature scaling, handling null values, and merging datasets.

@@ -21,16 +21,21 @@ This project focuses on building a machine learning model to predict customer ch
 Customer churn refers to when a customer stops doing business with a company. Retaining existing customers is more cost-effective than acquiring new ones. This project applies machine learning techniques to analyze customer behavior and predict churn using historical datasets. It includes data preprocessing, model building, evaluation, and generation of predictions on new data.
 
 ## Approach and Methodology
-1.**Exploratory Data Analysis (EDA)**
+
+1. **Exploratory Data Analysis (EDA)**
   - Understand data distribution, missing values, correlations, and key features.
-2.**Data Preprocessing**
+
+2. **Data Preprocessing**
   - Encoding categorical variables, feature scaling, handling null values, and merging datasets.
-3.**Model Building**
+
+3. **Model Building**
   - Algorithms evaluated include Logistic Regression, Random Forest, and XGBoost.
   - Models were selected based on metrics such as accuracy, precision, recall, and F1 score.
-4.**Prediction Generation**
+
+4. **Prediction Generation**
   - Predictions were generated on unseen data from ```prediction_data.csv``` and stored in ```final_outputdata.csv```.
-5.**Documentation**
+
+5. **Documentation**
   - The process and findings are summarized in the ```final report.pdf```.
 
 ## Project Structure

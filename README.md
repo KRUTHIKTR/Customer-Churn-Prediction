@@ -13,7 +13,6 @@ This project focuses on building a machine learning model to predict customer ch
 - [Contributing](#contributing)
 - [License](#license)
 - [Future Scope](#future-scope)
-- [Contact](#contact)
 
 ## Overview
 
@@ -131,4 +130,4 @@ For any queries, feel free to reach out:
   <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="26" alt="linktree logo" />
 </a>
 
-###### Thank you for **checking out the Customer Churn Prediction** project! Feel free to explore and contribute.
+###### Thank you for checking out the Customer Churn Prediction project! Feel free to explore and contribute.

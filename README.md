@@ -23,14 +23,14 @@ Customer churn refers to when a customer stops doing business with a company. Re
 ## Approach and Methodology
 1.**Exploratory Data Analysis (EDA)**
   - Understand data distribution, missing values, correlations, and key features.
-2. **Data Preprocessing**
+2.**Data Preprocessing**
   - Encoding categorical variables, feature scaling, handling null values, and merging datasets.
-3. **Model Building**
+3.**Model Building**
   - Algorithms evaluated include Logistic Regression, Random Forest, and XGBoost.
   - Models were selected based on metrics such as accuracy, precision, recall, and F1 score.
-4. **Prediction Generation**
+4.**Prediction Generation**
   - Predictions were generated on unseen data from ```prediction_data.csv``` and stored in ```final_outputdata.csv```.
-5. **Documentation**
+5.**Documentation**
   - The process and findings are summarized in the ```final report.pdf```.
 
 ## Project Structure

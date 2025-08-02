@@ -1,9 +1,4 @@
 
----
-
-### ✅ Final `README.md`
-
-```markdown
 # Customer Churn Prediction Using Supervised Machine Learning
 
 This project aims to predict customer churn based on client behavior and pricing-related features using supervised machine learning techniques. By identifying customers likely to leave, businesses can improve retention strategies and reduce churn-related losses.

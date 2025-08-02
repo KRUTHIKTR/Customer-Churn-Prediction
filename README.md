@@ -95,24 +95,15 @@ To set up this project locally:
 
 ## Dependencies
 
-The project requires the following Python packages (declared in `requirements.txt`):
-
-- numpy  
-- pandas  
-- matplotlib  
-- seaborn  
-- scikit-learn  
-- xgboost  
-- jupyter  
-- notebook  
+The project requires the Python packages (mentioned in  `requirements.txt`)
 
 ## Contributing
 
-Contributions are welcome. Please read the [`CONTRIBUTING.md`](CONTRIBUTING.md) file for guidelines.
+Contributions are welcome. Please read the [`CONTRIBUTING.md`](https://github.com/KRUTHIKTR/Customer-Churn-Prediction/blob/main/Contributing.md)) file for guidelines.
 
 ## License
 
-This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the **MIT License**. See the [`LICENSE`](LICENSE) file for details.
 
 ## Future Scope
 
@@ -140,4 +131,4 @@ For any queries, feel free to reach out:
   <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="26" alt="linktree logo" />
 </a>
 
-###### Thank you for checking out the Customer Churn Prediction project! Feel free to explore and contribute.
+###### Thank you for **checking out the Customer Churn Prediction** project! Feel free to explore and contribute.

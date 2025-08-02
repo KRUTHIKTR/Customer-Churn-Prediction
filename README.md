@@ -5,7 +5,7 @@ This project focuses on building a machine learning model to predict customer ch
 
 ## Table of Contents
 
-- [Project Description](#project-description)
+- [Overview](#Overview)
 - [Approach and Methodology](#Approach-and-Methodology)
 - [Project Structure](#project-structure)
 - [Datasets](#datasets)
@@ -16,7 +16,7 @@ This project focuses on building a machine learning model to predict customer ch
 - [Future Scope](#future-scope)
 
 
-## Project Description
+## Overview
 
 Customer churn refers to when a customer stops doing business with a company. Retaining existing customers is more cost-effective than acquiring new ones. This project applies machine learning techniques to analyze customer behavior and predict churn using historical datasets. It includes data preprocessing, model building, evaluation, and generation of predictions on new data.
 

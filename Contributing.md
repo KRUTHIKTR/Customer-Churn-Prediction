@@ -16,7 +16,7 @@ Thank you for considering contributing to this project. We welcome contributions
 ```
    git checkout -b feature/your-feature-name
 ```
-4.** Install Requirements**
+4. **Install Requirements**
 Install dependencies from the provided ```requirements.txt```.
 ```
    pip install -r requirements.txt
